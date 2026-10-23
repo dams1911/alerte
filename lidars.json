@@ -1,0 +1,386 @@
+{
+ "updated": "2026-10-23",
+ "note": "Mis à jour automatiquement deux fois par semaine. items = lidars annoncés (avec date de fin), frequent = endroits où un lidar est souvent placé.",
+ "items": [
+  {
+   "id": "lg-2026-10-21-bonaparte",
+   "street": "Quai Bonaparte",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "from": "2026-10-21",
+   "until": "2026-10-31",
+   "source": "https://todayinliege.be/lidar-quai-bonaparte-6"
+  }
+ ],
+ "frequent": [
+  {
+   "id": "bxl-digue-canal",
+   "street": "Digue du Canal",
+   "commune": "Anderlecht",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-09",
+    "2026-01",
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-ring-drogenbos",
+   "street": "Ring",
+   "commune": "Drogenbos",
+   "near": "virage de Drogenbos",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-09",
+    "2025-10",
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-berchem-athenee",
+   "street": "Avenue de Berchem-Sainte-Agathe",
+   "commune": "Koekelberg",
+   "near": "Athénée",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01",
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-waterloo-moliere",
+   "street": "Chaussée de Waterloo",
+   "commune": "Ixelles",
+   "near": "Carrefour Molière",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-waterloo-wellington",
+   "street": "Chaussée de Waterloo",
+   "commune": "Uccle",
+   "near": "Royal Wellington",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-09"
+   ]
+  },
+  {
+   "id": "bxl-haecht-bordet",
+   "street": "Chaussée de Haecht",
+   "commune": "Evere",
+   "near": "Avenue Jules Bordet",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-haecht-sainte-marie",
+   "street": "Chaussée de Haecht",
+   "commune": "Schaerbeek",
+   "near": "Église Royale Sainte-Marie",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-09"
+   ]
+  },
+  {
+   "id": "bxl-tervueren-3couleurs",
+   "street": "Avenue de Tervueren",
+   "commune": "Auderghem",
+   "near": "Trois Couleurs",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-geneve",
+   "street": "Rue de Genève",
+   "commune": "Evere",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-e40-montgomery",
+   "street": "Boulevard Reyers",
+   "commune": "Schaerbeek",
+   "near": "fin de l'E40 direction Montgomery",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-tunnel-cinquantenaire",
+   "street": "Tunnel du Cinquantenaire",
+   "commune": "Bruxelles",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-diamant",
+   "street": "Avenue du Diamant",
+   "commune": "Schaerbeek",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-etoile",
+   "street": "Rue de l'Étoile",
+   "commune": "Uccle",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "bxl-legrand",
+   "street": "Avenue Legrand",
+   "commune": "Ixelles",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-bertaux",
+   "street": "Avenue Victor et Jules Bertaux",
+   "commune": "Anderlecht",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-mettewie",
+   "street": "Boulevard Mettewie",
+   "commune": "Molenbeek-Saint-Jean",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-statuaires",
+   "street": "Avenue des Statuaires",
+   "commune": "Uccle",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-invalides",
+   "street": "Boulevard des Invalides",
+   "commune": "Auderghem",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-roi-albert",
+   "street": "Avenue du Roi Albert",
+   "commune": "Berchem-Sainte-Agathe",
+   "near": "Hunderenveld",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-09"
+   ]
+  },
+  {
+   "id": "bxl-parmentier",
+   "street": "Avenue Edmond Parmentier",
+   "commune": "Woluwe-Saint-Pierre",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-09"
+   ]
+  },
+  {
+   "id": "lg-bonaparte",
+   "street": "Quai Bonaparte",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2026-10"
+   ]
+  },
+  {
+   "id": "lg-ourthe-chenee",
+   "street": "Boulevard de l'Ourthe",
+   "commune": "Chênée",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2026-09"
+   ]
+  },
+  {
+   "id": "wapi-aelbeke",
+   "street": "Chaussée d'Aelbeke",
+   "commune": "Mouscron",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-08"
+   ]
+  },
+  {
+   "id": "wapi-valenciennes",
+   "street": "Chaussée de Valenciennes",
+   "commune": "Irchonwelz",
+   "near": "pharmacie",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-06"
+   ]
+  },
+  {
+   "id": "wapi-station-tourpes",
+   "street": "Rue de la Station",
+   "commune": "Tourpes",
+   "near": "Garage Maes",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-06"
+   ]
+  },
+  {
+   "id": "wapi-wallonie-leuze",
+   "street": "Rue de la Wallonie",
+   "commune": "Leuze-en-Hainaut",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Wallonie picarde",
+   "seen": []
+  },
+  {
+   "id": "wapi-gaurain",
+   "street": "Chaussée de Bruxelles",
+   "commune": "Gaurain-Ramecroix",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Wallonie picarde",
+   "seen": []
+  },
+  {
+   "id": "bw-waterloo",
+   "street": "Chaussée de Bruxelles",
+   "commune": "Waterloo",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Brabant wallon",
+   "seen": [
+    "2025-01"
+   ]
+  }
+ ]
+}
