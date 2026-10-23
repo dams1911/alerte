@@ -41,7 +41,6 @@
    "zone": "Bruxelles",
    "seen": [
     "2025-09",
-    "2026-01",
     "2026-01"
    ]
   },
@@ -70,7 +69,6 @@
    "max": 0,
    "zone": "Bruxelles",
    "seen": [
-    "2026-01",
     "2026-01"
    ]
   },
@@ -372,7 +370,9 @@
    "lon": null,
    "max": 0,
    "zone": "Wallonie picarde",
-   "seen": []
+   "seen": [
+    "2026-04"
+   ]
   },
   {
    "id": "wapi-gaurain",
@@ -383,7 +383,9 @@
    "lon": null,
    "max": 0,
    "zone": "Wallonie picarde",
-   "seen": []
+   "seen": [
+    "2023-12"
+   ]
   },
   {
    "id": "bw-waterloo",
@@ -565,6 +567,110 @@
    "zone": "Bruxelles",
    "seen": [
     "2026-02"
+   ]
+  },
+  {
+   "id": "lg-ardennes",
+   "street": "Quai des Ardennes",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2026-10"
+   ]
+  },
+  {
+   "id": "lg-radoux",
+   "street": "Boulevard Jean-Théodore Radoux",
+   "commune": "Liège",
+   "near": "Naimette-Xhovémont",
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "seen": [
+    "2026-09"
+   ]
+  },
+  {
+   "id": "lg-bois-de-breux",
+   "street": "Rue de Bois-de-Breux",
+   "commune": "Grivegnée",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "seen": [
+    "2026-09"
+   ]
+  },
+  {
+   "id": "lg-vise",
+   "street": "Rue de Visé",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2025-11"
+   ]
+  },
+  {
+   "id": "wapi-ath-mons-maffle",
+   "street": "Chaussée de Mons",
+   "commune": "Maffle, Ath",
+   "near": "Pharmacie des Plantes",
+   "lat": null,
+   "lon": null,
+   "max": 70,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-10"
+   ]
+  },
+  {
+   "id": "wapi-n56-bouvignies",
+   "street": "N56",
+   "commune": "Bouvignies, Ath",
+   "near": "entre Bouvignies et Rebaix, sous le pont",
+   "lat": null,
+   "lon": null,
+   "max": 90,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-09"
+   ]
+  },
+  {
+   "id": "wapi-reine-astrid",
+   "street": "Avenue Reine Astrid",
+   "commune": "Mouscron",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-08"
+   ]
+  },
+  {
+   "id": "lux-sainte-cecile-bouillon",
+   "street": "Rue de Bouillon (N83)",
+   "commune": "Sainte-Cécile, Florenville",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Luxembourg",
+   "seen": [
+    "2026-08"
    ]
   }
  ]
