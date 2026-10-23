@@ -14,6 +14,19 @@
    "from": "2026-10-21",
    "until": "2026-10-31",
    "source": "https://todayinliege.be/lidar-quai-bonaparte-6"
+  },
+  {
+   "id": "wapi-2026-10-12-bury",
+   "street": "Grand'Route (N50)",
+   "commune": "Bury, Péruwelz",
+   "near": "Barrière de Bury",
+   "lat": null,
+   "lon": null,
+   "max": 90,
+   "zone": "Wallonie picarde",
+   "from": "2026-10-12",
+   "until": "2026-10-26",
+   "source": "https://www.notele.be/si103-media168400-un-lidar-installe-a-proximite-du-carrefour-de-la-barriere-de-bury-sur-la-n50.html"
   }
  ],
  "frequent": [
@@ -110,7 +123,8 @@
    "max": 0,
    "zone": "Bruxelles",
    "seen": [
-    "2025-09"
+    "2025-09",
+    "2026-02"
    ]
   },
   {
@@ -123,7 +137,8 @@
    "max": 0,
    "zone": "Bruxelles",
    "seen": [
-    "2026-01"
+    "2026-01",
+    "2026-02"
    ]
   },
   {
@@ -149,7 +164,8 @@
    "max": 0,
    "zone": "Bruxelles",
    "seen": [
-    "2026-01"
+    "2026-01",
+    "2026-02"
    ]
   },
   {
@@ -380,6 +396,175 @@
    "zone": "Brabant wallon",
    "seen": [
     "2025-01"
+   ]
+  },
+  {
+   "id": "wapi-bury-n50",
+   "street": "Grand'Route (N50)",
+   "commune": "Bury, Péruwelz",
+   "near": "Barrière de Bury",
+   "lat": null,
+   "lon": null,
+   "max": 90,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-10"
+   ]
+  },
+  {
+   "id": "lg-hector-denis",
+   "street": "Boulevard Hector Denis",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "seen": [
+    "2026-10"
+   ]
+  },
+  {
+   "id": "lg-quatorze-verges",
+   "street": "Rue des Quatorze-Verges",
+   "commune": "Liège",
+   "near": "Rocourt",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "lg-flemalle-halage",
+   "street": "Quai du Halage",
+   "commune": "Flémalle",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Liège",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "lux-saint-mard-wauters",
+   "street": "Avenue Joseph Wauters",
+   "commune": "Saint-Mard, Virton",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Luxembourg",
+   "seen": [
+    "2026-09"
+   ]
+  },
+  {
+   "id": "lux-bellefontaine-montante",
+   "street": "Rue de la Montante Roye",
+   "commune": "Bellefontaine, Tintigny",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Luxembourg",
+   "seen": [
+    "2026-04"
+   ]
+  },
+  {
+   "id": "bxl-thuyas",
+   "street": "Rue des Thuyas",
+   "commune": "Watermael-Boitsfort",
+   "near": "place Keym",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "bxl-lorraine",
+   "street": "Drève de Lorraine",
+   "commune": "Uccle",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "bxl-van-campenhout",
+   "street": "Rue Van Campenhout",
+   "commune": "Bruxelles",
+   "near": "quartier des Squares",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "bxl-janson",
+   "street": "Avenue Paul Janson",
+   "commune": "Anderlecht",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "bxl-charles-quint",
+   "street": "Avenue Charles Quint",
+   "commune": "Ganshoren",
+   "near": "basilique",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "bxl-moulin",
+   "street": "Vieille rue du Moulin",
+   "commune": "Uccle",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "bxl-cockx",
+   "street": "Rue Jules Cockx",
+   "commune": "Auderghem",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2026-02"
    ]
   }
  ]
