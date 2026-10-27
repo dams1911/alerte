@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-27",
  "note": "Mis à jour automatiquement deux fois par semaine. items = lidars annoncés (avec date de fin), frequent = endroits où un lidar est souvent placé.",
  "items": [
   {
@@ -319,6 +319,7 @@
    "max": 50,
    "zone": "Liège",
    "seen": [
+    "2026-05",
     "2026-09"
    ]
   },
@@ -671,6 +672,189 @@
    "zone": "Luxembourg",
    "seen": [
     "2026-08"
+   ]
+  },
+  {
+   "id": "lg-quai-rome",
+   "street": "Quai de Rome",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2024-12"
+   ]
+  },
+  {
+   "id": "lg-rue-parc",
+   "street": "Rue du Parc",
+   "commune": "Liège",
+   "near": "derrière le Palais des Congrès",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2025-01"
+   ]
+  },
+  {
+   "id": "lg-fosse-crahay",
+   "street": "Boulevard Fosse-Crahay",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2024-12"
+   ]
+  },
+  {
+   "id": "lg-jupille-liege",
+   "street": "Rue de Liège",
+   "commune": "Jupille",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2025-06"
+   ]
+  },
+  {
+   "id": "lg-quai-ourthe",
+   "street": "Quai de l'Ourthe",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2022-11"
+   ]
+  },
+  {
+   "id": "lg-walthere-dewe",
+   "street": "Rue Walthère Dewé",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "seen": [
+    "2025-04"
+   ]
+  },
+  {
+   "id": "lg-truffaut",
+   "street": "Avenue Georges Truffaut",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2026-06"
+   ]
+  },
+  {
+   "id": "lg-timmermans",
+   "street": "Quai Timmermans",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 70,
+   "zone": "Liège",
+   "seen": [
+    "2026-06"
+   ]
+  },
+  {
+   "id": "lg-froidmont",
+   "street": "Boulevard de Froidmont",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2026-05"
+   ]
+  },
+  {
+   "id": "lg-grands-pres-chenee",
+   "street": "Rue des Grands Prés",
+   "commune": "Chênée",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "seen": [
+    "2024-09",
+    "2026-09"
+   ]
+  },
+  {
+   "id": "lg-herve-grivegnee",
+   "street": "Rue de Herve",
+   "commune": "Grivegnée",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "seen": [
+    "2026-08"
+   ]
+  },
+  {
+   "id": "nam-floreffe-n90",
+   "street": "N90",
+   "commune": "Floreffe",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Namur",
+   "seen": [
+    "2026-08"
+   ]
+  },
+  {
+   "id": "wapi-dottignies-france",
+   "street": "Rue de France",
+   "commune": "Dottignies, Mouscron",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "wapi-grandmetz-longues-tetes",
+   "street": "Rue des Longues Têtes",
+   "commune": "Grandmetz, Leuze-en-Hainaut",
+   "near": "entrée du village",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2022-01"
    ]
   }
  ]
