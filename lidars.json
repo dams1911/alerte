@@ -953,6 +953,32 @@
    "seen": [
     "2025-10"
    ]
+  },
+  {
+   "id": "ver-spa-balmoral",
+   "street": "Route de Balmoral (N629)",
+   "commune": "Spa",
+   "near": "Balmoral",
+   "lat": null,
+   "lon": null,
+   "max": 70,
+   "zone": "Liège",
+   "seen": [
+    "2017-05"
+   ]
+  },
+  {
+   "id": "ver-theux-spixhe",
+   "street": "Chaussée de Spa (N62)",
+   "commune": "Theux",
+   "near": "zone de travaux de Spixhe",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Liège",
+   "seen": [
+    "2019-08"
+   ]
   }
  ]
 }
