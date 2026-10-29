@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-29",
  "note": "Mis à jour automatiquement deux fois par semaine. items = lidars annoncés (avec date de fin), frequent = endroits où un lidar est souvent placé.",
  "items": [
   {
@@ -14,19 +14,6 @@
    "from": "2026-10-21",
    "until": "2026-10-31",
    "source": "https://todayinliege.be/lidar-quai-bonaparte-6"
-  },
-  {
-   "id": "wapi-2026-10-12-bury",
-   "street": "Grand'Route (N50)",
-   "commune": "Bury, Péruwelz",
-   "near": "Barrière de Bury",
-   "lat": null,
-   "lon": null,
-   "max": 90,
-   "zone": "Wallonie picarde",
-   "from": "2026-10-12",
-   "until": "2026-10-26",
-   "source": "https://www.notele.be/si103-media168400-un-lidar-installe-a-proximite-du-carrefour-de-la-barriere-de-bury-sur-la-n50.html"
   }
  ],
  "frequent": [
@@ -162,6 +149,7 @@
    "max": 0,
    "zone": "Bruxelles",
    "seen": [
+    "2025-10",
     "2026-01",
     "2026-02"
    ]
@@ -280,7 +268,8 @@
    "max": 0,
    "zone": "Bruxelles",
    "seen": [
-    "2025-09"
+    "2025-09",
+    "2025-10"
    ]
   },
   {
@@ -306,6 +295,7 @@
    "max": 50,
    "zone": "Liège",
    "seen": [
+    "2025-10",
     "2026-10"
    ]
   },
@@ -424,6 +414,8 @@
    "max": 30,
    "zone": "Liège",
    "seen": [
+    "2023-01",
+    "2025-10",
     "2026-10"
    ]
   },
@@ -788,6 +780,7 @@
    "max": 50,
    "zone": "Liège",
    "seen": [
+    "2025-01",
     "2026-05"
    ]
   },
@@ -855,6 +848,110 @@
    "zone": "Wallonie picarde",
    "seen": [
     "2022-01"
+   ]
+  },
+  {
+   "id": "lg-douai",
+   "street": "Boulevard de Douai",
+   "commune": "Liège",
+   "near": "50 m avant la station Texaco, direction centre",
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Liège",
+   "seen": [
+    "2021-02"
+   ]
+  },
+  {
+   "id": "wapi-chapelle-wattines",
+   "street": "Chaussée de Bruxelles (N7)",
+   "commune": "Chapelle-à-Wattines, Leuze-en-Hainaut",
+   "near": "carrefour",
+   "lat": null,
+   "lon": null,
+   "max": 70,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2025-08"
+   ]
+  },
+  {
+   "id": "wapi-melles-frasnes",
+   "street": "Chaussée de Frasnes",
+   "commune": "Melles, Tournai",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 70,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2025-01"
+   ]
+  },
+  {
+   "id": "bxl-van-volxem",
+   "street": "Avenue Van Volxem",
+   "commune": "Forest",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-freres-legrain",
+   "street": "Avenue des Frères Legrain",
+   "commune": "Woluwe-Saint-Pierre",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-kouter",
+   "street": "Avenue du Kouter",
+   "commune": "Auderghem",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-herinckx",
+   "street": "Avenue Bourgmestre Jean Herinckx",
+   "commune": "Uccle",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
+   ]
+  },
+  {
+   "id": "bxl-stroobants",
+   "street": "Rue Stroobants",
+   "commune": "Evere",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Bruxelles",
+   "seen": [
+    "2025-10"
    ]
   }
  ]
