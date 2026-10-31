@@ -366,19 +366,6 @@
    ]
   },
   {
-   "id": "wapi-gaurain",
-   "street": "Chaussée de Bruxelles",
-   "commune": "Gaurain-Ramecroix",
-   "near": null,
-   "lat": null,
-   "lon": null,
-   "max": 0,
-   "zone": "Wallonie picarde",
-   "seen": [
-    "2023-12"
-   ]
-  },
-  {
    "id": "bw-waterloo",
    "street": "Chaussée de Bruxelles",
    "commune": "Waterloo",
@@ -719,19 +706,6 @@
    ]
   },
   {
-   "id": "lg-quai-ourthe",
-   "street": "Quai de l'Ourthe",
-   "commune": "Liège",
-   "near": null,
-   "lat": null,
-   "lon": null,
-   "max": 50,
-   "zone": "Liège",
-   "seen": [
-    "2022-11"
-   ]
-  },
-  {
    "id": "lg-walthere-dewe",
    "street": "Rue Walthère Dewé",
    "commune": "Liège",
@@ -838,32 +812,6 @@
    ]
   },
   {
-   "id": "wapi-grandmetz-longues-tetes",
-   "street": "Rue des Longues Têtes",
-   "commune": "Grandmetz, Leuze-en-Hainaut",
-   "near": "entrée du village",
-   "lat": null,
-   "lon": null,
-   "max": 50,
-   "zone": "Wallonie picarde",
-   "seen": [
-    "2022-01"
-   ]
-  },
-  {
-   "id": "lg-douai",
-   "street": "Boulevard de Douai",
-   "commune": "Liège",
-   "near": "50 m avant la station Texaco, direction centre",
-   "lat": null,
-   "lon": null,
-   "max": 0,
-   "zone": "Liège",
-   "seen": [
-    "2021-02"
-   ]
-  },
-  {
    "id": "wapi-chapelle-wattines",
    "street": "Chaussée de Bruxelles (N7)",
    "commune": "Chapelle-à-Wattines, Leuze-en-Hainaut",
@@ -952,32 +900,6 @@
    "zone": "Bruxelles",
    "seen": [
     "2025-10"
-   ]
-  },
-  {
-   "id": "ver-spa-balmoral",
-   "street": "Route de Balmoral (N629)",
-   "commune": "Spa",
-   "near": "Balmoral",
-   "lat": null,
-   "lon": null,
-   "max": 70,
-   "zone": "Liège",
-   "seen": [
-    "2017-05"
-   ]
-  },
-  {
-   "id": "ver-theux-spixhe",
-   "street": "Chaussée de Spa (N62)",
-   "commune": "Theux",
-   "near": "zone de travaux de Spixhe",
-   "lat": null,
-   "lon": null,
-   "max": 0,
-   "zone": "Liège",
-   "seen": [
-    "2019-08"
    ]
   }
  ]
