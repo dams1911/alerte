@@ -1,21 +1,7 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-11-03",
  "note": "Mis à jour automatiquement deux fois par semaine. items = lidars annoncés (avec date de fin), frequent = endroits où un lidar est souvent placé.",
- "items": [
-  {
-   "id": "lg-2026-10-21-bonaparte",
-   "street": "Quai Bonaparte",
-   "commune": "Liège",
-   "near": null,
-   "lat": null,
-   "lon": null,
-   "max": 50,
-   "zone": "Liège",
-   "from": "2026-10-21",
-   "until": "2026-10-31",
-   "source": "https://todayinliege.be/lidar-quai-bonaparte-6"
-  }
- ],
+ "items": [],
  "frequent": [
   {
    "id": "bxl-digue-canal",
@@ -624,6 +610,7 @@
    "max": 90,
    "zone": "Wallonie picarde",
    "seen": [
+    "2025-01",
     "2026-09"
    ]
   },
@@ -702,7 +689,8 @@
    "max": 50,
    "zone": "Liège",
    "seen": [
-    "2025-06"
+    "2025-06",
+    "2025-07"
    ]
   },
   {
@@ -728,6 +716,7 @@
    "max": 50,
    "zone": "Liège",
    "seen": [
+    "2026-04",
     "2026-06"
    ]
   },
@@ -808,6 +797,7 @@
    "max": 0,
    "zone": "Wallonie picarde",
    "seen": [
+    "2024-12",
     "2026-02"
    ]
   },
@@ -900,6 +890,110 @@
    "zone": "Bruxelles",
    "seen": [
     "2025-10"
+   ]
+  },
+  {
+   "id": "wapi-rumes-montgomery",
+   "street": "Chaussée de Montgomery",
+   "commune": "Rumes",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-03"
+   ]
+  },
+  {
+   "id": "wapi-tournai-lille",
+   "street": "Chaussée de Lille",
+   "commune": "Tournai",
+   "near": "Intermarché",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-03"
+   ]
+  },
+  {
+   "id": "wapi-herseaux-estaimpuis",
+   "street": "Chaussée d'Estaimpuis",
+   "commune": "Herseaux, Mouscron",
+   "near": "Home Charles Vanneste",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-02"
+   ]
+  },
+  {
+   "id": "wapi-rheinfelden",
+   "street": "Avenue de Rheinfelden",
+   "commune": "Mouscron",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-03"
+   ]
+  },
+  {
+   "id": "wapi-ellignies-monplaisir",
+   "street": "Rue Monplaisir",
+   "commune": "Ellignies-Sainte-Anne, Beloeil",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "wapi-gaurain-bruxelles",
+   "street": "Chaussée de Bruxelles (N7)",
+   "commune": "Gaurain-Ramecroix",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-01"
+   ]
+  },
+  {
+   "id": "lg-tongres",
+   "street": "Chaussée de Tongres",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2025-05"
+   ]
+  },
+  {
+   "id": "lg-haute-wez",
+   "street": "Rue Haute-Wez",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2025-03"
    ]
   }
  ]
