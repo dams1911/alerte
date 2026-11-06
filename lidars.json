@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-06",
  "note": "Mis à jour automatiquement deux fois par semaine. items = lidars annoncés (avec date de fin), frequent = endroits où un lidar est souvent placé.",
- "items": [],
+ "items": [
+  {
+   "id": "lg-2026-11-04-sainte-beuve",
+   "street": "Boulevard Sainte-Beuve",
+   "commune": "Liège",
+   "near": "Burenville",
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "from": "2026-11-04",
+   "until": "2026-11-16",
+   "source": "https://www.todayinliege.be/le-lidar-a-ete-deplace-a-burenville/"
+  }
+ ],
  "frequent": [
   {
    "id": "bxl-digue-canal",
@@ -994,6 +1008,19 @@
    "zone": "Liège",
    "seen": [
     "2025-03"
+   ]
+  },
+  {
+   "id": "lg-sainte-beuve",
+   "street": "Boulevard Sainte-Beuve",
+   "commune": "Liège",
+   "near": "Burenville",
+   "lat": null,
+   "lon": null,
+   "max": 30,
+   "zone": "Liège",
+   "seen": [
+    "2026-11"
    ]
   }
  ]
