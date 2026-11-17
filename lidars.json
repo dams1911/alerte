@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-17",
  "note": "Mis à jour automatiquement deux fois par semaine. items = lidars annoncés (avec date de fin), frequent = endroits où un lidar est souvent placé.",
  "items": [
   {
@@ -14,6 +14,19 @@
    "from": "2026-11-04",
    "until": "2026-11-16",
    "source": "https://www.todayinliege.be/le-lidar-a-ete-deplace-a-burenville/"
+  },
+  {
+   "id": "wapi-2026-11-16-blicquy-brunehault",
+   "street": "Chaussée Brunehault",
+   "commune": "Blicquy, Leuze-en-Hainaut",
+   "near": "station-service",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "from": "2026-11-16",
+   "until": "2026-11-23",
+   "source": "https://www.notele.be/si103-media169157-blicquy-un-lidar-installe-a-la-chaussee-brunehault-pour-une-semaine.html"
   }
  ],
  "frequent": [
@@ -1034,6 +1047,32 @@
    "zone": "Wallonie picarde",
    "seen": [
     "2025-01"
+   ]
+  },
+  {
+   "id": "wapi-blicquy-brunehault",
+   "street": "Chaussée Brunehault",
+   "commune": "Blicquy, Leuze-en-Hainaut",
+   "near": "station-service",
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "seen": [
+    "2026-11"
+   ]
+  },
+  {
+   "id": "lux-gerouville-route-meix",
+   "street": "Route de Meix",
+   "commune": "Gérouville, Meix-devant-Virton",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 0,
+   "zone": "Luxembourg",
+   "seen": [
+    "2026-03"
    ]
   }
  ]
