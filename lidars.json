@@ -1,20 +1,7 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-20",
  "note": "Mis à jour automatiquement deux fois par semaine. items = lidars annoncés (avec date de fin), frequent = endroits où un lidar est souvent placé.",
  "items": [
-  {
-   "id": "lg-2026-11-04-sainte-beuve",
-   "street": "Boulevard Sainte-Beuve",
-   "commune": "Liège",
-   "near": "Burenville",
-   "lat": null,
-   "lon": null,
-   "max": 30,
-   "zone": "Liège",
-   "from": "2026-11-04",
-   "until": "2026-11-16",
-   "source": "https://www.todayinliege.be/le-lidar-a-ete-deplace-a-burenville/"
-  },
   {
    "id": "wapi-2026-11-16-blicquy-brunehault",
    "street": "Chaussée Brunehault",
@@ -27,6 +14,32 @@
    "from": "2026-11-16",
    "until": "2026-11-23",
    "source": "https://www.notele.be/si103-media169157-blicquy-un-lidar-installe-a-la-chaussee-brunehault-pour-une-semaine.html"
+  },
+  {
+   "id": "lg-2026-11-18-boverie",
+   "street": "Quai de la Boverie",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "from": "2026-11-18",
+   "until": "2026-11-30",
+   "source": "https://www.todayinliege.be/lidar-quai-de-la-boverie-4/"
+  },
+  {
+   "id": "wapi-2026-11-16-irchonwelz-valenciennes",
+   "street": "Chaussée de Valenciennes",
+   "commune": "Irchonwelz",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Wallonie picarde",
+   "from": "2026-11-16",
+   "until": "2026-11-28",
+   "source": "https://www.notele.be/si103-media169169-des-lidars-installes-a-irchonwelz-et-blicquy.html"
   }
  ],
  "frequent": [
@@ -349,7 +362,8 @@
    "max": 50,
    "zone": "Wallonie picarde",
    "seen": [
-    "2026-06"
+    "2026-06",
+    "2026-11"
    ]
   },
   {
@@ -1073,6 +1087,19 @@
    "zone": "Luxembourg",
    "seen": [
     "2026-03"
+   ]
+  },
+  {
+   "id": "lg-boverie",
+   "street": "Quai de la Boverie",
+   "commune": "Liège",
+   "near": null,
+   "lat": null,
+   "lon": null,
+   "max": 50,
+   "zone": "Liège",
+   "seen": [
+    "2026-11"
    ]
   }
  ]
